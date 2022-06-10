@@ -14,7 +14,7 @@
     <RepositoryType>git</RepositoryType>
     <PackageTags>streamdeck elgato stream deck macro board virtual</PackageTags>
     <DocumentationFile>bin\OpenMacroBoard.VirtualBoard.xml</DocumentationFile>
-    <SignAssembly>true</SignAssembly>
+    <SignAssembly>false</SignAssembly>
     <AssemblyOriginatorKeyFile>OpenMacroBoard.VirtualBoard.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
